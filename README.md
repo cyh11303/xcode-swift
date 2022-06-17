@@ -1,24 +1,23 @@
 # 모바일 프로그래밍 실습
-*12장 table
-*13장 audio
-*14장 MoviePlayer
-*15장 CameraPhotoLibrary
-*16장 Sketch, DrawGraphics
-*17장 taptouch
-*18장 SwipeGesture
-*19장 PinchGesture1,Pinchgesture2
+* 12장 table
+* 13장 audio
+* 14장 MoviePlayer
+* 15장 CameraPhotoLibrary
+* 16장 Sketch, DrawGraphics
+* 17장 taptouch
+* 18장 SwipeGesture
+* 19장 PinchGesture1,Pinchgesture2
 
-
-#모바일 프로그래밍 기말고사
-*기말고사 프로젝트로 1학기동안 배운 맵뷰, 페이지컨트롤, 내비게이션 컨트롤러,스와이프 제스처를 활용하여 만들어봤습니다. 
-*초기화면에서 어러 음식사진을 페이지컨트롤과 스와이프 제스처를 이용하여 보여주고 상단의 map버튼을 누르면 음식을 파는 식당의 위치를 맵뷰를 통해 나타내보았습니다.
+# 모바일 프로그래밍 기말고사
+* 기말고사 프로젝트로 1학기동안 배운 맵뷰, 페이지컨트롤, 내비게이션 컨트롤러,스와이프 제스처를 활용하여 만들어봤습니다. 
+* 초기화면에서 어러 음식사진을 페이지컨트롤과 스와이프 제스처를 이용하여 보여주고 상단의 map버튼을 누르면 음식을 파는 식당의 위치를 맵뷰를 통해 나타내보았습니다.
 
 
 ![스크린샷 2022-06-17 오후 3 20 29](https://user-images.githubusercontent.com/63995513/174237634-3605efec-877a-4b71-917e-a8ffba5d4a3a.png)
 ![스크린샷 2022-06-17 오후 3 20 53](https://user-images.githubusercontent.com/63995513/174237652-37288bec-051c-439c-9fe7-f8a632516107.png)
 
 
-####초기화면 코드
+#### 초기화면 코드
 ```
 //
 //  ViewController.swift
